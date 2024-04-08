@@ -1,10 +1,13 @@
 # Yellowbrick-learning
-機械学習の可視化ライブラリYellowbrickの学習ライブラリ
+機械学習の可視化ライブラリYellowbrickの学習リポジトリ
+
+文章の多くはGoogle翻訳を使用しています.
 
 ## 実例
 リンク先はYellowbrickライブラリのWebページ
 1. Feature Visualization
     1. [Rank Features](https://www.scikit-yb.org/en/latest/api/features/rankd.html#module-yellowbrick.features.rankd)
+        * 相関係数のこと?
 1. Classification Visualization
 1. Regression Visualization
 1. Clustering Visualization
